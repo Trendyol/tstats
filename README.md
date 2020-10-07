@@ -1,7 +1,9 @@
 # Tstats
+[![CircleCI](https://circleci.com/gh/Trendyol/tstats.svg?style=svg)](https://circleci.com/gh/Trendyol/tstats)
+![npm](https://img.shields.io/npm/v/tstats)
+<br/>
 
 > A library for collecting app metrics from nest.js application.
-
 <br/>
 
 TSTATS contains decorator(s) and interceptor(s) for tracing and collecting performance metrics from nest.js application.    
