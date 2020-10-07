@@ -4,7 +4,7 @@
   "description": "Tstats Library",
   "repository": {
     "type": "git",
-    "url": ""
+    "url": "git@github.com:Trendyol/tstats.git"
   },
   "main": "dist/Index.js",
   "types": "dist/Index.d.ts",
