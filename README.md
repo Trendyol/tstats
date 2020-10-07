@@ -1,5 +1,6 @@
 # Tstats
 [![CircleCI](https://circleci.com/gh/Trendyol/tstats.svg?style=svg)](https://circleci.com/gh/Trendyol/tstats)
+[![codecov](https://codecov.io/gh/Trendyol/tstats/branch/master/graph/badge.svg)](https://codecov.io/gh/Trendyol/tstats) 
 ![npm](https://img.shields.io/npm/v/tstats)
 <br/>
 
